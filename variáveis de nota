@@ -1,0 +1,9 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        String nomealuno= "marcio";
+        int idade=24;
+        double nota1=7.5;
+        double =nota2=7;
+        Integer soma;
+    }
+}
