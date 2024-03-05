@@ -1,0 +1,15 @@
+
+class HelloWorld {
+    public static void main(String[] args) {
+        String nomep="produto";
+        int codigo=20;
+        double preco=0.0;
+        int quantidade=10;
+        String categoria="categoria";
+            System.out.println("nome do produto " + nomep);
+            System.out.println("codigo do produto " + codigo);
+            System.out.println("preco do produto"+ preco);
+            System.out.println("quantidade em estoque " + quantidade);
+            System.out.println("categoria do produto " + categoria);
+    }
+}
